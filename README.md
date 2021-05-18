@@ -1,4 +1,4 @@
-Interface do usuário com cartas no estilo Neumorfismo com navegação de cartão.
+Interface do usuário com navegação de cartão.
 
 HTML5 & CSS3.
 
